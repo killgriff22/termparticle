@@ -8,5 +8,4 @@ SCREEN.blit(str(Ground),(0,termsize[1]-4),Fore.GREEN,RESET)
 particles = []
 
 while True:
-    SCREEN.clear()
     SCREEN.draw()
